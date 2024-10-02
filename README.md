@@ -18,8 +18,8 @@ v18.19.0 or v18.20.X
 Clone Repo:
 
 ```sh
-git clone https://github.com/matheusup2024/Presale.git
-cd Presale
+git clone https://github.com/matheusup2024/Token-project
+cd Token-project
 ```
 
 Install Dependencies:
